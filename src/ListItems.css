@@ -1,0 +1,14 @@
+.list{
+    color: #fff;
+    width: 390px;
+    margin: 20px auto;
+    background-color: #1d191c;
+    padding: 8px;
+    left: 30%;
+    top:30%
+
+}
+.remove{
+    background-color:#1d191c;
+    
+}
